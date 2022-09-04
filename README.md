@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello world, I'm Du Hoang 👋</h1>
 
-  <h3>I'm from <img src="https://github.com/ManrajGrover/SingleDivProject/blob/master/Assets/Vietnam.png" /></h3>
+  <h3>I'm from <img alt="vietnam" src="../images/vietnam-icon-100x100.png" /></h3>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhoang00&hide_border=true&theme=gruvbox&layout=compact" />
 
