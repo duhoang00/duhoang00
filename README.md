@@ -8,6 +8,6 @@
   </div>
 
   <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=duhoang00&theme=dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=duhoang00&theme=dark&hide_border=true" />
   </div>
 <div>
